@@ -21,4 +21,4 @@ Open http://127.0.0.1:8765. Deployment is intentionally not configured; all asse
 
 The original video is preserved outside this repository in Downloads. No arXiv identifier or source-code repository has been invented: add their links once confirmed. Before publishing, confirm the paper version and final citation, and set a canonical URL/social image URL for the chosen host. Individual repository files should be checked against that host's size limits.
 
-Layout reference: https://jianxiapyh.github.io/Boba-project-page/. The implementation is original; research content and figures are from ControlGS. Author links use the manuscript's ORCID identifiers.
+Layout reference: https://jianxiapyh.github.io/Boba-project-page/. The implementation is original; research content and figures are from ControlGS. Author links follow the PowerGS project page; Junjie Zhao links to the manuscript's ORCID identifier.
