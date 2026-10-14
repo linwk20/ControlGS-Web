@@ -8,7 +8,7 @@ Portable static research website. No build step, runtime dependencies, or extern
 python3 -m http.server 8765 --bind 127.0.0.1
 ```
 
-Open http://127.0.0.1:8765. Deployment is intentionally not configured; all asset links are relative, so the site can be served from a domain root or project subdirectory.
+Open http://127.0.0.1:8765. The live site is https://horizon-lab.org/controlgs/, deployed through the `docs/controlgs` submodule in [the lab website repository](https://github.com/horizon-research/horizon-research.github.io). All asset links are relative.
 
 ## Content
 
@@ -19,6 +19,6 @@ Open http://127.0.0.1:8765. Deployment is intentionally not configured; all asse
 - `assets/images/`: figures rasterized from the manuscript and a video poster
 - `assets/papers/controlgs.pdf`: main paper followed by supplementary material
 
-The original video is preserved outside this repository in Downloads. No arXiv identifier or source-code repository has been invented: add their links once confirmed. Before publishing, confirm the paper version and final citation, and set a canonical URL/social image URL for the chosen host. Individual repository files should be checked against that host's size limits.
+Source code: [horizon-research/ControlGS](https://github.com/horizon-research/ControlGS).
 
 Layout reference: https://jianxiapyh.github.io/Boba-project-page/. The implementation is original; research content and figures are from ControlGS. Author links follow the PowerGS project page; Junjie Zhao links to the manuscript's ORCID identifier.
